@@ -1,0 +1,11 @@
+.login {
+  height: 90vh;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form_input {
+  margin-top: 2rem;
+}

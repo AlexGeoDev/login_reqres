@@ -1,0 +1,10 @@
+.button_back {
+  width: 85vw;
+  margin: 1rem auto;
+  display: flex;
+  justify-content: flex-end;
+}
+.header {
+  color: white;
+  text-decoration: none;
+}

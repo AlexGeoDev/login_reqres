@@ -1,0 +1,33 @@
+.user {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.user_card {
+  display: flex;
+  flex-direction: row;
+  border: 1px blue solid;
+  margin: 1rem 0;
+  padding: 5px;
+  border-radius: 7px;
+}
+
+.user_avatar {
+  border-radius: 7px;
+}
+
+.user_data {
+  padding-left: 1rem;
+  margin: auto;
+  width: 260px;
+}
+
+.button_list {
+  margin-bottom: 2rem;
+  width: 180px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
